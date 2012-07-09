@@ -1,4 +1,3 @@
-team
-====
-
-Team Instruction
+Team
+===============================
+mvnsearch.org team navigation
