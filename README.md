@@ -1,3 +1,3 @@
-Team
+IntelliJ IDEA中文知识库
 ===============================
-mvnsearch.org team navigation
+IntelliJ IDEA的中文知识库
